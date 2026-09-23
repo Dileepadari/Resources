@@ -1,0 +1,48 @@
+Attribution
+===========
+
+This repository is a collection of study material written by other people. It
+is not original work, and it carries no blanket licence of its own, because the
+material in it is not mine to relicense. Each item keeps the terms it came with.
+
+Notes for Professionals series
+------------------------------
+
+  Frontend/00-git.pdf              Git Notes for Professionals
+  Frontend/01-frontend-html.pdf    HTML5 Notes for Professionals
+  Frontend/02-frontend-css.pdf     CSS Notes for Professionals
+  Frontend/03-frontend-js.pdf      JavaScript Notes for Professionals
+  Frontend/04-frontend-reactjs.pdf React JS Notes for Professionals
+
+  Compiled and published free of charge by GoalKicker.com from Stack Overflow
+  Documentation. The text is released under Creative Commons BY-SA, written by
+  contributors to Stack Overflow Documentation, who are credited in the
+  "Credits" chapter at the end of each book. Images may be copyright of their
+  respective owners.
+
+  https://goalkicker.com/
+
+  These books are unofficial and free, and are not affiliated with or endorsed
+  by any of the projects or companies they describe.
+
+Internet and Web Technology lecture notes
+-----------------------------------------
+
+  Frontend/00-internet.pdf
+
+  "Lecture Note On Internet and Web Technology"
+  Prepared by Rajashree Sukla, Lecturer,
+  Department of Computer Science and Engineering,
+  NM Institute of Engineering and Technology.
+
+  Copyright remains with the author and the institution. The document states no
+  licence. It is reproduced here unmodified and in full, for personal study, with
+  attribution. If the author or the institution would prefer it not be hosted
+  here, it will be removed on request: open an issue on this repository.
+
+Everything else
+---------------
+
+Any file in this repository not listed above is likewise the work of its own
+author and remains under its own terms. Nothing here is offered under a licence
+granted by me.
